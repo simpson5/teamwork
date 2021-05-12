@@ -7,4 +7,8 @@ public class Simpson {
 		System.out.println("hello teamwork!");
 	}
 	
+	public void bar() {
+	      System.out.println("hello bar!!");
+	   }
+	
 }
